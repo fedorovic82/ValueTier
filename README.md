@@ -1,1 +1,1 @@
-# E-OTM
+# Value Tier Propensity model
